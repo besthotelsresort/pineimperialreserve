@@ -1,0 +1,20 @@
+# robots.txt for https://YOUR-USERNAME.github.io/site-04-pineimperialreserve/
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://YOUR-USERNAME.github.io/site-04-pineimperialreserve/sitemap.xml
+Host: https://YOUR-USERNAME.github.io/site-04-pineimperialreserve/
