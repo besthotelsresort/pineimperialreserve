@@ -1,0 +1,26 @@
+{
+  "name": "Pine Imperial Reserve",
+  "short_name": "Pine",
+  "description": "Pine Imperial Reserve: An adult retreat designed around your pace",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0f5fa",
+  "theme_color": "#2b6cb0",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
