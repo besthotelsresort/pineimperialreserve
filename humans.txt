@@ -1,0 +1,9 @@
+/* TEAM */
+Hospitality: Pine Imperial Reserve team
+Concierge: 24/7
+Location: Vancouver, CA
+
+/* SITE */
+Last update: 2026-06-16
+Language: English
+Standards: HTML5, CSS3, Schema.org
